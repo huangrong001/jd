@@ -7,7 +7,7 @@ public class User {
 	private String name;
 	private String telphone;
 	private String email;
-	
+	private String sex;
 	public User() {
 	    
 	}
