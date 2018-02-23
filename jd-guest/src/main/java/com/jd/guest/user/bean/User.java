@@ -9,6 +9,7 @@ public class User {
 	private String email;
 	
 	public User() {
+	    
 	}
 
 	public User(Integer id, String userName, String password, String name,
